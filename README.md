@@ -120,23 +120,23 @@ Mais detalhes: [docs/arquitetura.md](docs/arquitetura.md)
 
 ### Vendas e ordens de serviço
 
-![Vendas e ordens de serviço](screenshots/vendas-os.webp)
+![Vendas e ordens de serviço](https://isaac-matheus.vercel.app/assets/senso-6.webp)
 
 ### Detalhe da ordem de serviço
 
-![Detalhe da OS](screenshots/detalhe-os.webp)
+![Detalhe da OS](https://isaac-matheus.vercel.app/assets/senso-2.webp)
 
 ### Receita óptica
 
-![Receita óptica](screenshots/receita-optica.webp)
+![Receita óptica](https://isaac-matheus.vercel.app/assets/senso-5.webp)
 
 ### Clientes
 
-![Clientes](screenshots/clientes.webp)
+![Clientes](https://isaac-matheus.vercel.app/assets/senso-4.webp)
 
 ### Via técnica do laboratório
 
-![Via do laboratório](screenshots/via-laboratorio.webp)
+![Via do laboratório](https://isaac-matheus.vercel.app/assets/senso-3.webp)
 
 > Todos os nomes, valores, prescrições e demais dados exibidos nas telas são fictícios e foram criados exclusivamente para demonstração.
 
